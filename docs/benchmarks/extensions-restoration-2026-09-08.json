@@ -1,0 +1,113 @@
+{
+  "ready": {
+    "status": "ready",
+    "mode": "writable",
+    "capabilities": {
+      "imports": true,
+      "upstream_acquisition": true
+    },
+    "models": 10,
+    "profiles": 28,
+    "restore_errors": 0
+  },
+  "modelCount": 10,
+  "profileCount": 28,
+  "extensions": [
+    {
+      "api_version": 1,
+      "id": "ocean-sensors",
+      "version": "1.0.0",
+      "label": "Mooring, ADCP and HF-radar contracts",
+      "module": "backend.extensions.sensors"
+    },
+    {
+      "api_version": 1,
+      "id": "derived-products",
+      "version": "1.0.0",
+      "label": "Derived and ML field ingestion",
+      "module": "backend.extensions.products"
+    },
+    {
+      "api_version": 1,
+      "id": "example-ml-output",
+      "version": "1.0.0",
+      "label": "Synthetic ML-output contract example",
+      "module": "backend.extensions.example_product"
+    }
+  ],
+  "products": {
+    "id": "e7a43f40838d4cc6935eb0c8a5da754f",
+    "title": "synthetic-ml-output.nc",
+    "product": {
+      "id": "ml-anomaly-example",
+      "label": "Synthetic ML-output contract",
+      "kind": "machine-learning",
+      "version": "1.0.0",
+      "outputs": [
+        "ml_temperature_anomaly"
+      ],
+      "method": "Analytic fixture exercising the externally computed ML-output interface. No trained model is executed.",
+      "limitations": "Synthetic integration example; not an ML prediction, hazard advisory or validation of predictive skill.",
+      "lineage": {
+        "generated_at": "2026-09-08T00:00:00Z",
+        "inputs": [
+          {
+            "id": "synthetic-contract-input",
+            "sha256": "17681e2edf4d6214a2b7c30af87603c71fe08becc99fa1444cb28a59159c5379"
+          }
+        ],
+        "artifact_sha256": "6919007ddce71f02ec871a84bc546b0eea9a00f5a99667749e0e9fe855bf6091",
+        "training_data": "None. This analytic fixture only tests the ML-output data contract.",
+        "inference_domain": "Synthetic 84\u201386 E, 13\u201315 N, 0\u2013300 m; 3\u20135 September 2025.",
+        "validation": "Not validated for prediction. No trained ML model was used.",
+        "limitations": "Synthetic values must not be interpreted as forecasts or observed anomalies."
+      }
+    }
+  },
+  "sensors": [
+    {
+      "id": "8502517ea90446d4a6f31c2b47977dc0:TRAINING-HF-radar",
+      "instrument": "HF radar",
+      "geometry": "surface-current",
+      "sample_times": [
+        "2025-09-03T00:00:00Z",
+        "2025-09-03T06:00:00Z",
+        "2025-09-03T12:00:00Z"
+      ]
+    },
+    {
+      "id": "919fd23fe93044f1b10944ea82203983:TRAINING-Mooring",
+      "instrument": "Mooring",
+      "geometry": "time-series",
+      "sample_times": [
+        "2025-09-03T00:00:00Z",
+        "2025-09-03T06:00:00Z",
+        "2025-09-03T12:00:00Z"
+      ]
+    },
+    {
+      "id": "b42d0d35025744ab97b23fc065a9ae0e:TRAINING-ADCP@2025-09-03T000000Z",
+      "instrument": "ADCP",
+      "geometry": "profile",
+      "sample_times": [
+        "2025-09-03T00:00:00Z"
+      ]
+    },
+    {
+      "id": "b42d0d35025744ab97b23fc065a9ae0e:TRAINING-ADCP@2025-09-03T060000Z",
+      "instrument": "ADCP",
+      "geometry": "profile",
+      "sample_times": [
+        "2025-09-03T06:00:00Z"
+      ]
+    },
+    {
+      "id": "b42d0d35025744ab97b23fc065a9ae0e:TRAINING-ADCP@2025-09-03T120000Z",
+      "instrument": "ADCP",
+      "geometry": "profile",
+      "sample_times": [
+        "2025-09-03T12:00:00Z"
+      ]
+    }
+  ]
+}

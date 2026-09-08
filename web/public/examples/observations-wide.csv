@@ -1,0 +1,4 @@
+profile_id,instrument,longitude,latitude,time,depth,temperature,temperature_unit,temperature_qc,salinity,salinity_unit,salinity_qc,u,u_unit,u_qc,synthetic
+WIDE-EXAMPLE-01,CTD,85,14,2025-09-03T12:00:00Z,10,301.35,K,1,34.1,PSU,1,25,cm/s,1,true
+WIDE-EXAMPLE-01,CTD,85,14,2025-09-03T12:00:00Z,100,297.15,K,1,34.6,PSU,2,14,cm/s,1,true
+WIDE-EXAMPLE-01,CTD,85,14,2025-09-03T12:00:00Z,300,289.15,K,1,35.0,PSU,1,,cm/s,9,true

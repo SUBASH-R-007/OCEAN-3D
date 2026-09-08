@@ -1,0 +1,75 @@
+{
+  "id": "incois-bob",
+  "provenance": {
+    "title": "INCOIS Argo \u00b7 Bay of Bengal \u00b7 May\u2013July 2026",
+    "source": "INCOIS Argo monthly objective analysis \u00b7 official INCOIS ERDDAP",
+    "synthetic": false,
+    "provider": "INCOIS",
+    "product_type": "monthly_objective_analysis",
+    "dataset_id": "incois_argo_mnt_McCreary",
+    "display_upsampling": true,
+    "source_url": "https://erddap.incois.gov.in/erddap/griddap/incois_argo_mnt_McCreary.nc?T_ANALYZED%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,S_ANALYZED%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,T_STDEV%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,T_RMSE%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,T_ROIOBS%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,T_BOXOBS%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,S_ROIOBS%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,S_BOXOBS%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D",
+    "metadata_url": "https://erddap.incois.gov.in/erddap/info/incois_argo_mnt_McCreary/index.html",
+    "documentation_url": "https://argo.ucsd.edu/wp-content/uploads/sites/361/2020/05/Incois_Argo_ObjectiveAnalysis_Ver2.0.pdf",
+    "sha256": "ed2eead8a518757638edd594ba8040f6f8e0421708520025c69dcf20c65f5a74",
+    "source_sha256": "0eca3a4f7a98c0d7807da7e098fb4543ccc5d861a917fbb510d23f5cb02f870c",
+    "retrieved_at": "2026-09-07T09:13:05.865044+00:00",
+    "license": "The data may be used and redistributed for free but is not intended\nfor legal use, since it may contain inaccuracies. Neither the data\nContributor, ERD, NOAA, nor the United States Government, nor any\nof their employees or contractors, makes any warranty, express or\nimplied, including warranties of merchantability and fitness for a\nparticular purpose, or assumes any legal liability for the accuracy,\ncompleteness, or usefulness, of this information.",
+    "source_history": "Mon Aug 17 09:18:34 2026: cdo merge MackessWithStats_Tmp_Mntly.nc MackessWithStats_Sal_Mntly.nc argo_mnt.nc\nFERRET V6.7  13-Aug-26\n2026-09-07T08:58:22Z (local files)\n2026-09-07T08:58:22Z https://erddap.incois.gov.in/erddap/griddap/incois_argo_mnt_McCreary.nc?T_ANALYZED%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,S_ANALYZED%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,T_STDEV%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,T_RMSE%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,T_ROIOBS%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,T_BOXOBS%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,S_ROIOBS%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D,S_BOXOBS%5B%282026-05-15T00:00:00Z%29:1:%282026-07-15T00:00:00Z%29%5D%5B%285%29:1:%282000%29%5D%5B%285.5%29:1:%2822.5%29%5D%5B%2879.5%29:1:%2895.5%29%5D",
+    "warning": "Monthly analyzed fields, not a live forecast. Source temperature does not declare potential versus in-situ convention; density diagnostics and temperature-profile comparisons are disabled for this product. Spread is within-analysis variability, not a confidence interval.",
+    "spatial_resolution": "1\u00b0 \u00d7 1\u00b0 native grid; 24 source depth levels",
+    "temporal_resolution": "Monthly; date marks the month, not an instantaneous observation",
+    "temperature_definition": "As published; potential versus in-situ unspecified. Celsius interpreted from the INCOIS product report.",
+    "transformations": [
+      "Native ERDDAP subset: May\u2013July 2026, 79.5\u201395.5\u00b0E, 5.5\u201322.5\u00b0N, 5\u20132000 m; no source stride.",
+      "Decode 9999 fill values; retain the source missing-cell mask.",
+      "Keep analyzed temperature separate from potential temperature. Map explicitly identified practical salinity to the application convention.",
+      "Retain source spread and counts. Source salinity-count PSU/standard-name metadata is erroneous; counts are reported as counts, never salinity."
+    ],
+    "support_by_time": [
+      {
+        "time": "2026-05-15T00:00:00Z",
+        "valid_cells": 4363,
+        "total_cells": 7344,
+        "cells_with_local_observations": 599,
+        "roi_count_range": [
+          1,
+          21
+        ],
+        "local_count_range": [
+          0,
+          6
+        ]
+      },
+      {
+        "time": "2026-06-15T00:00:00Z",
+        "valid_cells": 4002,
+        "total_cells": 7344,
+        "cells_with_local_observations": 573,
+        "roi_count_range": [
+          1,
+          19
+        ],
+        "local_count_range": [
+          0,
+          6
+        ]
+      },
+      {
+        "time": "2026-07-15T00:00:00Z",
+        "valid_cells": 4564,
+        "total_cells": 7344,
+        "cells_with_local_observations": 1043,
+        "roi_count_range": [
+          1,
+          29
+        ],
+        "local_count_range": [
+          0,
+          5
+        ]
+      }
+    ]
+  },
+  "profiles": []
+}

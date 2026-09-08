@@ -1,0 +1,16 @@
+FROM python:3.11-slim
+RUN apt-get update && apt-get install -y --no-install-recommends curl ca-certificates && rm -rf /var/lib/apt/lists/*
+WORKDIR /app
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 OCEAN_HOST=0.0.0.0
+COPY requirements.lock.txt .
+RUN pip install --no-cache-dir -r requirements.lock.txt
+COPY backend ./backend
+COPY data/reference ./data/reference
+COPY data/incois ./data/incois
+COPY data/incois-catalog ./data/incois-catalog
+COPY data/hycom ./data/hycom
+COPY data/instruments ./data/instruments
+RUN useradd --create-home ocean && mkdir -p /app/data/imports && chown -R ocean:ocean /app
+USER ocean
+EXPOSE 8000
+CMD ["python","-m","backend.server"]

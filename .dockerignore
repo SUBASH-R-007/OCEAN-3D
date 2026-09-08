@@ -1,0 +1,13 @@
+.git
+.venv
+web/node_modules
+web/dist
+web/selfhost-dist
+web/.wrangler
+web/.vinext
+data/imports
+data/incois-catalog/cache
+data/incois-catalog/tables
+tmp
+**/__pycache__
+.pytest_cache

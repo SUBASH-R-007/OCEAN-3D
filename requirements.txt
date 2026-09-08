@@ -1,0 +1,12 @@
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+xarray>=2024.10,<2027
+netCDF4>=1.7,<2
+numpy>=2,<3
+scipy>=1.14,<2
+gsw>=3.6,<4
+dask[array]>=2024.10,<2027
+python-multipart>=0.0.20,<1
+httpx>=0.27,<1
+pytest>=8,<10
+jsonschema>=4.23,<5

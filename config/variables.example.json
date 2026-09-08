@@ -1,0 +1,12 @@
+[
+  {
+    "id": "oxygen",
+    "label": "Dissolved oxygen",
+    "unit": "mmol/m³",
+    "canonical_unit": "mmol m-3",
+    "standard": "mole_concentration_of_dissolved_molecular_oxygen_in_sea_water",
+    "aliases": ["o2", "oxygen"],
+    "unit_aliases": ["mmol m-3", "mmol/m3"],
+    "range": [0, 300]
+  }
+]

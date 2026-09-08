@@ -1,0 +1,235 @@
+profile_id,instrument,longitude,latitude,time,depth,variable,value,qc,adjusted,error,data_mode,synthetic
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,10,temperature,28.41418,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,25,temperature,27.79191,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,50,temperature,26.51333,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,75,temperature,25.15242,2,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,100,temperature,23.72193,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,150,temperature,21.22714,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,200,temperature,19.0732,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,300,temperature,15.86349,4,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,400,temperature,13.60447,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,500,temperature,12.03032,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,650,temperature,10.35369,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,800,temperature,9.20553,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,950,temperature,8.31061,1,True,0.01,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,10,salinity,34.2752,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,25,salinity,34.47947,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,50,salinity,34.72687,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,75,salinity,34.86829,2,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,100,salinity,34.93632,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,150,salinity,35.02463,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,200,salinity,35.0608,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,300,salinity,35.11473,4,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,400,salinity,35.1606,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,500,salinity,35.21771,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,650,salinity,35.27062,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,800,salinity,35.29739,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,950,salinity,35.28675,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,10,chlorophyll,0.44947,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,25,chlorophyll,0.75507,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,50,chlorophyll,1.08057,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,75,chlorophyll,1.11854,2,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,100,chlorophyll,0.80195,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,150,chlorophyll,0.16079,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,200,chlorophyll,0.00417,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,300,chlorophyll,-0.0086,4,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,400,chlorophyll,0.0195,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,500,chlorophyll,0.07135,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,650,chlorophyll,0.12256,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,800,chlorophyll,0.14905,1,True,0.02,D (simulated),True
+DEMO-ARGO-01,Argo,85.2,14.8,2025-09-03T12:00:00Z,950,chlorophyll,0.13837,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,10,temperature,29.17672,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,25,temperature,28.17588,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,50,temperature,26.35652,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,75,temperature,24.56074,2,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,100,temperature,22.88783,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,150,temperature,20.21952,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,200,temperature,18.10301,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,300,temperature,14.92701,4,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,400,temperature,12.75258,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,500,temperature,11.17191,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,650,temperature,9.42523,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,800,temperature,8.16482,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,950,temperature,7.20673,1,True,0.01,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,10,salinity,34.00724,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,25,salinity,34.2171,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,50,salinity,34.47694,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,75,salinity,34.62211,2,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,100,salinity,34.7127,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,150,salinity,34.86892,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,200,salinity,34.97727,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,300,salinity,35.09939,4,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,400,salinity,35.17726,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,500,salinity,35.22719,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,650,salinity,35.2405,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,800,salinity,35.21474,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,950,salinity,35.16374,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,10,chlorophyll,0.46584,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,25,chlorophyll,0.69781,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,50,chlorophyll,0.93068,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,75,chlorophyll,0.92131,2,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,100,chlorophyll,0.63153,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,150,chlorophyll,0.09469,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,200,chlorophyll,0.00269,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,300,chlorophyll,0.04009,4,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,400,chlorophyll,0.09492,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,500,chlorophyll,0.13803,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,650,chlorophyll,0.14915,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,800,chlorophyll,0.12304,1,True,0.02,D (simulated),True
+DEMO-ARGO-02,Argo,88.6,17.4,2025-09-03T12:00:00Z,950,chlorophyll,0.07198,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,10,temperature,28.19457,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,25,temperature,27.06699,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,50,temperature,25.29412,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,75,temperature,23.686,2,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,100,temperature,22.33629,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,150,temperature,20.13986,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,200,temperature,18.38245,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,300,temperature,15.43402,4,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,400,temperature,13.20745,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,500,temperature,11.40065,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,650,temperature,9.3817,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,800,temperature,7.94182,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,950,temperature,6.98034,1,True,0.01,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,10,salinity,34.65528,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,25,salinity,34.70697,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,50,salinity,34.7824,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,75,salinity,34.82673,2,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,100,salinity,34.87767,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,150,salinity,34.98552,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,200,salinity,35.08131,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,300,salinity,35.17134,4,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,400,salinity,35.213,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,500,salinity,35.21085,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,650,salinity,35.17265,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,800,salinity,35.1181,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,950,salinity,35.07364,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,10,chlorophyll,0.45157,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,25,chlorophyll,0.61977,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,50,chlorophyll,0.80782,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,75,chlorophyll,0.80166,2,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,100,chlorophyll,0.56417,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,150,chlorophyll,0.11028,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,200,chlorophyll,0.06652,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,300,chlorophyll,0.11628,4,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,400,chlorophyll,0.14743,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,500,chlorophyll,0.14217,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,650,chlorophyll,0.10297,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,800,chlorophyll,0.04826,1,True,0.02,D (simulated),True
+DEMO-GLIDER-01,Glider,83.8,11.2,2025-09-03T12:00:00Z,950,chlorophyll,0.00377,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,10,temperature,28.98503,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,25,temperature,27.68199,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,50,temperature,25.86066,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,75,temperature,24.36195,2,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,100,temperature,23.16223,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,150,temperature,20.95358,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,200,temperature,19.05714,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,300,temperature,15.77749,4,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,400,temperature,13.21228,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,500,temperature,11.14645,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,650,temperature,9.0274,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,800,temperature,7.68351,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,950,temperature,6.95338,1,True,0.01,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,10,salinity,34.70613,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,25,salinity,34.72534,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,50,salinity,34.79665,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,75,salinity,34.87088,2,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,100,salinity,34.96041,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,150,salinity,35.08312,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,200,salinity,35.16655,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,300,salinity,35.21295,4,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,400,salinity,35.20027,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,500,salinity,35.15399,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,650,salinity,35.10132,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,800,salinity,35.06844,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,950,salinity,35.07144,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,10,chlorophyll,0.39472,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,25,chlorophyll,0.55089,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,50,chlorophyll,0.76345,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,75,chlorophyll,0.80496,2,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,100,chlorophyll,0.61526,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,150,chlorophyll,0.18537,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,200,chlorophyll,0.13671,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,300,chlorophyll,0.14992,4,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,400,chlorophyll,0.12875,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,500,chlorophyll,0.07996,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,650,chlorophyll,0.02648,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,800,chlorophyll,-0.00653,1,True,0.02,D (simulated),True
+DEMO-CTD-01,CTD,89.4,10.2,2025-09-03T12:00:00Z,950,chlorophyll,-0.00355,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,10,temperature,28.35904,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,25,temperature,27.43253,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,50,temperature,26.18784,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,75,temperature,25.18161,2,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,100,temperature,24.29295,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,150,temperature,22.34747,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,200,temperature,20.47142,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,300,temperature,17.19207,4,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,400,temperature,14.51101,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,500,temperature,12.38313,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,650,temperature,10.22478,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,800,temperature,8.89027,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,950,temperature,8.14533,1,True,0.01,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,10,salinity,34.47532,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,25,salinity,34.58083,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,50,salinity,34.77908,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,75,salinity,34.95004,2,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,100,salinity,35.09438,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,150,salinity,35.24703,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,200,salinity,35.31093,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,300,salinity,35.32713,4,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,400,salinity,35.28765,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,500,salinity,35.24449,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,650,salinity,35.22729,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,800,salinity,35.24656,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,950,salinity,35.2943,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,10,chlorophyll,0.46917,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,25,chlorophyll,0.75749,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,50,chlorophyll,1.13692,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,75,chlorophyll,1.24202,2,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,100,chlorophyll,0.96378,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,150,chlorophyll,0.28902,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,200,chlorophyll,0.14997,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,300,chlorophyll,0.11008,4,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,400,chlorophyll,0.05605,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,500,chlorophyll,0.00859,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,650,chlorophyll,-0.01,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,800,chlorophyll,0.00904,1,True,0.02,D (simulated),True
+DEMO-BGC-01,BGC Argo,87.1,13.2,2025-09-03T12:00:00Z,950,chlorophyll,0.05675,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,10,temperature,28.43623,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,25,temperature,27.45108,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,50,temperature,25.89162,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,75,temperature,24.48567,2,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,100,temperature,23.09329,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,150,temperature,20.35792,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,200,temperature,17.88982,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,300,temperature,14.17796,4,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,400,temperature,11.56895,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,500,temperature,9.82696,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,650,temperature,8.31865,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,800,temperature,7.579,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,950,temperature,7.22113,1,True,0.01,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,10,salinity,33.6181,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,25,salinity,33.88332,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,50,salinity,34.27185,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,75,salinity,34.55109,2,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,100,salinity,34.74059,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,150,salinity,34.94261,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,200,salinity,35.01507,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,300,salinity,35.05626,4,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,400,salinity,35.04612,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,500,salinity,35.05163,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,650,salinity,35.08761,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,800,salinity,35.14161,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,950,salinity,35.19024,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,10,chlorophyll,0.29415,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,25,chlorophyll,0.52824,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,50,chlorophyll,0.81804,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,75,chlorophyll,0.9049,2,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,100,chlorophyll,0.70896,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,150,chlorophyll,0.22811,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,200,chlorophyll,0.09092,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,300,chlorophyll,0.0334,4,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,400,chlorophyll,-0.00382,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,500,chlorophyll,-0.00632,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,650,chlorophyll,0.02707,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,800,chlorophyll,0.08066,1,True,0.02,D (simulated),True
+DEMO-ARGO-03,Argo,90.3,19.4,2025-09-03T12:00:00Z,950,chlorophyll,0.12923,1,True,0.02,D (simulated),True

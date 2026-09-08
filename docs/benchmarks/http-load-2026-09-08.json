@@ -1,0 +1,80 @@
+{
+  "base_url": "http://127.0.0.1:3000",
+  "created_at": "2026-09-08T17:07:26.208900+00:00",
+  "ready": {
+    "status": "ready",
+    "mode": "writable",
+    "capabilities": {
+      "imports": true,
+      "upstream_acquisition": true
+    },
+    "models": 18,
+    "profiles": 29,
+    "restore_errors": 0
+  },
+  "stages": [
+    {
+      "clients": 1,
+      "requested_seconds": 10,
+      "actual_seconds": 10.000543999951333,
+      "requests": 588,
+      "successful": 588,
+      "rejected": 0,
+      "other_failures": 0,
+      "success_per_second": 58.796801454287035,
+      "latency_ms": {
+        "p50": 12.32979993801564,
+        "p95": 32.80289496178739
+      },
+      "readiness": {
+        "probes": 10,
+        "failures": 0,
+        "max_latency_ms": 30.676899943500757
+      }
+    },
+    {
+      "clients": 2,
+      "requested_seconds": 10,
+      "actual_seconds": 10.021882400033064,
+      "requests": 922,
+      "successful": 922,
+      "rejected": 0,
+      "other_failures": 0,
+      "success_per_second": 91.99868479767414,
+      "latency_ms": {
+        "p50": 18.314249988179654,
+        "p95": 39.9510500603355
+      },
+      "readiness": {
+        "probes": 10,
+        "failures": 0,
+        "max_latency_ms": 211.50730003137141
+      }
+    },
+    {
+      "clients": 4,
+      "requested_seconds": 10,
+      "actual_seconds": 10.017411399981938,
+      "requests": 1624,
+      "successful": 1624,
+      "rejected": 0,
+      "other_failures": 0,
+      "success_per_second": 162.1177303352968,
+      "latency_ms": {
+        "p50": 20.944299991242588,
+        "p95": 50.46694998163726
+      },
+      "readiness": {
+        "probes": 10,
+        "failures": 0,
+        "max_latency_ms": 213.3330999640748
+      }
+    }
+  ],
+  "consistency_hashes": {
+    "0": "f967846cfa21489d4d27746e54e240f9e39677c2bcd35604e07ac0665f066bba",
+    "1": "df5174fe129a8967e54ffeae661ebf6a3b410754cd083766463a43366ae5f1ab",
+    "2": "59874cf294626bb03d18a2a951fe62308a7dff7cb9ba6e5b9780fb003504fd19"
+  },
+  "scope": "Local/target HTTP measurement of three deterministic 32-resolution binary frames, including cache warming. Not a native-archive ingest, GPU benchmark, realistic user mix or sustained production-capacity certification."
+}

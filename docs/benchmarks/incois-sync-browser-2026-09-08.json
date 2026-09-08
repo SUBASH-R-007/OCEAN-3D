@@ -1,0 +1,177 @@
+{
+  "status": "ok",
+  "last_attempt": "2026-09-08T17:02:23.354429Z",
+  "last_success": "2026-09-08T17:02:55.060881Z",
+  "next_check": "2026-09-08T23:02:55.065723+00:00",
+  "error": null,
+  "products": [
+    {
+      "id": "AMSRE_MONTHLY_GLOBAL",
+      "title": "AMSRE Monthly Global Data",
+      "source_end": "2011-09-14T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:29.875502Z",
+      "status": "refreshed",
+      "data_time": "2011-09-14T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:30.352398+00:00",
+      "source_sha256": "953f27923ff744663ea9824d7e2f8827b81d5cae77411a744dc2d8d8571ba630"
+    },
+    {
+      "id": "ascat_daily_datasets",
+      "title": "Daily ASCAT global wind field",
+      "source_end": "2023-05-21T12:00:00Z",
+      "checked_at": "2026-09-08T17:02:31.446971Z",
+      "status": "refreshed",
+      "data_time": "2023-05-21T12:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:32.041564+00:00",
+      "source_sha256": "0a41f8e8c1053c8f3763d0190d7a9c4f8c0db55c247f3f49d0b66c7b2c2ad2ec"
+    },
+    {
+      "id": "NOAA_AVHRR_AMSR_datasets",
+      "title": "Daily-OI-V2, final, Data (Ship, Buoy, AMSR-E, AVHRR, GSFC-ice)",
+      "source_end": "2011-10-04T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:32.641670Z",
+      "status": "refreshed",
+      "data_time": "2011-10-04T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:32.933566+00:00",
+      "source_sha256": "13245049a3f05d701ae7cccca7e2323ab83a4c9775c8e18e7050646ef632ae0c"
+    },
+    {
+      "id": "incois_argo_10day_McCreary",
+      "title": "INCOIS ARGO 10 Day data Kessler-McCreary Methodology",
+      "source_end": "2026-07-30T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:33.324444Z",
+      "status": "refreshed",
+      "data_time": "2026-07-30T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:33.577378+00:00",
+      "source_sha256": "3188b9a60136d9adb7aa033bc6cda488ca9cdbcb81a7cf336ea2576113ceaaac"
+    },
+    {
+      "id": "incois_argo_10d_VAM",
+      "title": "INCOIS ARGO 10 day data Variational Analysis Methodology",
+      "source_end": "2026-07-30T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:36.776924Z",
+      "status": "refreshed",
+      "data_time": "2026-07-30T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:37.486345+00:00",
+      "source_sha256": "ccc03af1bdd3ba420718fadbff7b57ca18799bb82f6965b69015ae2b38612145"
+    },
+    {
+      "id": "incois_argo_mnt_McCreary",
+      "title": "INCOIS ARGO Monthly data Kessler-McCreary Methodology",
+      "source_end": "2026-07-15T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:38.886502Z",
+      "status": "refreshed",
+      "data_time": "2026-07-15T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:39.168059+00:00",
+      "source_sha256": "03590387dc16937db841aeee683c6f9886ee19a6ea1b84db373293d53695ea9e"
+    },
+    {
+      "id": "incois_argo_mnt_VAM",
+      "title": "INCOIS ARGO Monthly data Variational Analysis Methodology",
+      "source_end": "2026-07-15T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:43.282559Z",
+      "status": "refreshed",
+      "data_time": "2026-07-15T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:43.605637+00:00",
+      "source_sha256": "720a28ba7856ab40488baae6f15c0643f0fec86f1e9ea401a908be0b45d0ada8"
+    },
+    {
+      "id": "incois_argo_sst_weekly",
+      "title": "INCOIS argo SST data Weekly",
+      "source_end": "2010-12-29T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:45.069239Z",
+      "status": "refreshed",
+      "data_time": "2010-12-29T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:45.285391+00:00",
+      "source_sha256": "0bbbd1c29877c10101bbe44edbf149eb2543e6bfdc4bf9fb18163bfb54007c2b"
+    },
+    {
+      "id": "incois_oceansat2_datasets",
+      "title": "INCOIS Oceansat 2 OCM Data",
+      "source_end": "2020-05-01T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:45.383738Z",
+      "status": "refreshed",
+      "data_time": "2020-05-01T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:45.701877+00:00",
+      "source_sha256": "34bd88ed5df4e5015c63b2838639143f58b1e46ac2365519779c7b68eadfb2ee"
+    },
+    {
+      "id": "incois_quickscat_daily_datasets",
+      "title": "INCOIS Quickscat Daily Data",
+      "source_end": "2009-11-21T12:00:00Z",
+      "checked_at": "2026-09-08T17:02:46.029714Z",
+      "status": "refreshed",
+      "data_time": "2009-11-21T12:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:46.417154+00:00",
+      "source_sha256": "47c14456e28ca491cc3ecda2e4288b8a61a849b6709167047fbfbf7949dacb49"
+    },
+    {
+      "id": "incois_quickscat_mnt_datasets",
+      "title": "INCOIS Quickscat Monthly Data",
+      "source_end": "2009-10-16T12:00:00Z",
+      "checked_at": "2026-09-08T17:02:46.811598Z",
+      "status": "refreshed",
+      "data_time": "2009-10-16T12:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:47.094706+00:00",
+      "source_sha256": "bdbf557e59bd71987da089c8fa53d78e1a1872a0f8452931444e7f92ad00d2a3"
+    },
+    {
+      "id": "incois_tmi_3day_datasets",
+      "title": "INCOIS TMI 3Day Data",
+      "source_end": "2014-12-31T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:47.454441Z",
+      "status": "refreshed",
+      "data_time": "2014-12-31T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:47.902829+00:00",
+      "source_sha256": "44bbd0b7574933e474dc65f7b3f2e7f70fe2004a73685e337564268d88c76496"
+    },
+    {
+      "id": "incois_valueadded_products_datasets",
+      "title": "INCOIS Value Added Products",
+      "source_end": "2019-03-30T00:00:00Z",
+      "checked_at": "2026-09-08T17:02:48.419817Z",
+      "status": "refreshed",
+      "data_time": "2019-03-30T00:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:48.617337+00:00",
+      "source_sha256": "280045f895062a21d1466333a43459907c0a9638504260778e06a1bc1c7d3d3d"
+    },
+    {
+      "id": "Indian_ARGO_Floats",
+      "title": "INDIAN ARGO Floats Data",
+      "source_end": "2025-04-23T13:28:00Z",
+      "checked_at": "2026-09-08T17:02:48.717190Z",
+      "status": "refreshed",
+      "data_time": "2025-04-23T13:28:00Z",
+      "retrieved_at": "2026-09-08T17:02:48.854335+00:00",
+      "source_sha256": "b27e429d29787a26e6f9a2449771dc7cb0ed364a5c846ad6fcdac14b9ad15c76"
+    },
+    {
+      "id": "IRS_chlorophyll_datasets",
+      "title": "IRS P4 OCM-Chlorophyll",
+      "source_end": "2006-03-21T12:00:00Z",
+      "checked_at": "2026-09-08T17:02:48.875835Z",
+      "status": "refreshed",
+      "data_time": "2006-03-21T12:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:49.100823+00:00",
+      "source_sha256": "a17dfb1f06c237f2c2d64654ba96cbe8557210383621bb392114b99a8a5b4df8"
+    },
+    {
+      "id": "ascat_mnt_datasets",
+      "title": "Monthly ASCAT global wind field",
+      "source_end": "2021-11-01T12:00:00Z",
+      "checked_at": "2026-09-08T17:02:49.272655Z",
+      "status": "refreshed",
+      "data_time": "2021-11-01T12:00:00Z",
+      "retrieved_at": "2026-09-08T17:02:49.921206+00:00",
+      "source_sha256": "bce5494eadb9104538f807e01ed62b284267a4589949ab23ee58cb1dd7a945be"
+    }
+  ],
+  "current_product": null,
+  "revision": "35e7a1458db54f229c54751c7c5b4316",
+  "enabled": true,
+  "readonly": false,
+  "interval_seconds": 21600,
+  "can_run": true,
+  "source": "Public INCOIS ERDDAP",
+  "scope": "Checks publication updates; source dates determine data age. This is not a real-time operational forecast feed."
+}

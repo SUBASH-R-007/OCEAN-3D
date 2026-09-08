@@ -1,0 +1,95 @@
+{
+  "synthetic": true,
+  "source_shape": {
+    "time": 24,
+    "depth": 64,
+    "latitude": 512,
+    "longitude": 512
+  },
+  "scalar_logical_bytes": 1610612736,
+  "source_file_bytes": 107712333,
+  "files": 6,
+  "archive_sha256": "733dca2d6121e392e92e95e299b0165bf4f54c053f8b15aa9717d98481287fb2",
+  "registration_seconds": 3.209101799991913,
+  "process_peak_rss_bytes": 318763008,
+  "results": [
+    {
+      "bbox": [
+        60.0,
+        -10.0,
+        100.0,
+        30.0
+      ],
+      "display_shape": [
+        64,
+        64,
+        96
+      ],
+      "sampling": {
+        "selected_source_cells": 147456,
+        "source_frame_cells": 16777216,
+        "resolution": 64,
+        "native_shape": {
+          "depth": 64,
+          "latitude": 512,
+          "longitude": 512
+        }
+      },
+      "seconds": [
+        0.4247658000094816,
+        0.30553529993630946,
+        0.30697020003572106
+      ],
+      "median_seconds": 0.30697020003572106,
+      "json_bytes": 3018716,
+      "binary_bytes": 1578764,
+      "json_gzip_bytes": 249154,
+      "binary_gzip_bytes": 258740,
+      "max_affine_error": 6.616541348591909e-06,
+      "valid_cells": 269184
+    },
+    {
+      "bbox": [
+        80,
+        5,
+        90,
+        20
+      ],
+      "display_shape": [
+        64,
+        64,
+        96
+      ],
+      "sampling": {
+        "selected_source_cells": 147456,
+        "source_frame_cells": 16777216,
+        "resolution": 64,
+        "native_shape": {
+          "depth": 64,
+          "latitude": 512,
+          "longitude": 512
+        }
+      },
+      "seconds": [
+        0.23544659989420325,
+        0.24162049998994917,
+        0.22346670005936176
+      ],
+      "median_seconds": 0.23544659989420325,
+      "json_bytes": 3501042,
+      "binary_bytes": 1578708,
+      "json_gzip_bytes": 497807,
+      "binary_gzip_bytes": 427886,
+      "max_affine_error": 5.864661655863301e-06,
+      "valid_cells": 393216
+    }
+  ],
+  "limitations": "Single process, one affine synthetic scalar, three sequential reads per region; timings include interpolation and JSON-list preparation. No global concurrent-user or GPU throughput claim; logical selected cells are not physical disk bytes.",
+  "environment": {
+    "cpu": "13th Gen Intel(R) Core(TM) i7-13650HX",
+    "physical_memory_gib": 15.63,
+    "os": "Windows",
+    "python": "3.11",
+    "note": "Other local development services were present; not an isolated laboratory host."
+  }
+}

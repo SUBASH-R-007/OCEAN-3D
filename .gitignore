@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/*.nc
+data/imports/
+data/incois-catalog/cache/
+data/incois-catalog/tables/
+tmp/
+*.log
+.env
+!.env.example
+
+tmp-lint.json
+*.tsbuildinfo

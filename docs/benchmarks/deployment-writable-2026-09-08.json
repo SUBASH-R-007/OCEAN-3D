@@ -1,0 +1,40 @@
+{
+  "base_url": "http://127.0.0.1:3000",
+  "mode": "writable",
+  "workers_observed": [
+    40088
+  ],
+  "models": 9,
+  "profiles": 23,
+  "probes": [
+    {
+      "worker_pid": 40088,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40088,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.003936200053431094
+    },
+    {
+      "worker_pid": 40088,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40088,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.013275400036945939
+    },
+    {
+      "worker_pid": 40088,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40088,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.011728800018317997
+    },
+    {
+      "worker_pid": 40088,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40088,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.010476800031028688
+    }
+  ],
+  "scope": "Readiness, same-origin API contract, replica catalog/frame consistency and read-only mutation rejection; not a throughput benchmark."
+}

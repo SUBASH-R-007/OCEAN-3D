@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://schemas.opengis.net/wcs/1.0.0/wcsAll.xsd",
+    "sha256": "22df9f9611d9e9506d9e92c34532be9167a681c2b1d52a59b5b9c27e4a58fd9b",
+    "bytes": 970
+  },
+  {
+    "url": "https://schemas.opengis.net/wcs/1.0.0/wcsCapabilities.xsd",
+    "sha256": "35e085545b23e0e42af8c8ad331184e6e49899916e20198274f71b5aa5821157",
+    "bytes": 26411
+  },
+  {
+    "url": "https://www.w3.org/1999/xlink.xsd",
+    "sha256": "c3dbbaa28b884377ecd4a6c49d1f12566d8227cb0dce8ced10c0f66f8fa266e3",
+    "bytes": 8322
+  },
+  {
+    "url": "https://www.w3.org/2001/xml.xsd",
+    "sha256": "61960fb3131e38022caad5360e2f33a3382578ab3c80cd58bd74320ede61b20c",
+    "bytes": 8836
+  },
+  {
+    "url": "https://schemas.opengis.net/wcs/1.0.0/gml4wcs.xsd",
+    "sha256": "ce57c24b800a5417ada8c424568f3871e1339ee792f039ab3fe551f834ca87bc",
+    "bytes": 29019
+  },
+  {
+    "url": "https://schemas.opengis.net/wcs/1.0.0/owsBase.xsd",
+    "sha256": "572a9b3bf42651c1d59000fe43eda72eeb6933aa26725b2baba2335430430328",
+    "bytes": 14678
+  },
+  {
+    "url": "https://schemas.opengis.net/wcs/1.0.0/describeCoverage.xsd",
+    "sha256": "263107538e49b3fccb2c56d4aa1916345cfddbde0764bec631abb6b03ca89669",
+    "bytes": 15941
+  },
+  {
+    "url": "https://schemas.opengis.net/wcs/1.0.0/values.xsd",
+    "sha256": "2dcc9e562c35774164c2a82a90c7efb405d617e8d056e379d1031b2c3e9aab46",
+    "bytes": 10130
+  },
+  {
+    "url": "https://schemas.opengis.net/wcs/1.0.0/getCoverage.xsd",
+    "sha256": "5337ef8e6a4c0f31453500140d6672066402e58d6f26f3aa94ca425a9b18ebb0",
+    "bytes": 7641
+  },
+  {
+    "url": "https://schemas.opengis.net/wms/1.3.0/exceptions_1_3_0.xsd",
+    "sha256": "8fbbfdde57533b6d194482ae3fb751a27c5270f952f135527208e7303c1b13db",
+    "bytes": 1197
+  },
+  {
+    "url": "https://schemas.opengis.net/wms/1.3.0/capabilities_1_3_0.xsd",
+    "sha256": "bb2db70912176e3c50aa6476d9c13e45d1cb56e6e83c8b285dca793e3c74bdf7",
+    "bytes": 21591
+  }
+]

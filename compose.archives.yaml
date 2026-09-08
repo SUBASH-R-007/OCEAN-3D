@@ -1,0 +1,12 @@
+# Optional institutional mount. Source files and archive.json remain immutable.
+# Use with compose.yaml; no host directory is mounted by the default deployment.
+services:
+  api:
+    volumes:
+      - type: bind
+        source: ${OCEAN_ARCHIVE_DIR:?Set OCEAN_ARCHIVE_DIR to the verified archive directory}
+        target: /app/archive
+        read_only: true
+    environment:
+      OCEAN_ARCHIVE_MANIFEST: /app/archive/archive.json
+      OCEAN_MAX_ACTIVE: ${OCEAN_MAX_ACTIVE:-6}

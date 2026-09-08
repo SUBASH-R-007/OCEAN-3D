@@ -1,0 +1,15 @@
+# Immutable replicas: publish imports/archive.json before starting these workers.
+# Do not run an ingestion writer against their mounted snapshot while they run.
+services:
+  api:
+    read_only: true
+    security_opt:
+      - no-new-privileges:true
+    tmpfs:
+      - /tmp:rw,nosuid,noexec,size=256m
+    volumes:
+      - ocean-data:/app/data/imports:ro
+    environment:
+      OCEAN_MODE: readonly
+      OCEAN_WORKERS: ${OCEAN_WORKERS:-2}
+      OCEAN_SYNC_ENABLED: 'false'

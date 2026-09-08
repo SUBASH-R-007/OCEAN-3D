@@ -1,0 +1,69 @@
+{
+  "base_url": "http://127.0.0.1:3002",
+  "mode": "readonly",
+  "workers_observed": [
+    33784,
+    40456
+  ],
+  "models": 9,
+  "profiles": 23,
+  "probes": [
+    {
+      "worker_pid": 33784,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40456,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.04111890005879104
+    },
+    {
+      "worker_pid": 40456,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40456,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.038319299928843975
+    },
+    {
+      "worker_pid": 40456,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40456,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.03627249994315207
+    },
+    {
+      "worker_pid": 40456,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40456,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.03869029995985329
+    },
+    {
+      "worker_pid": 33784,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40456,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.016695500002242625
+    },
+    {
+      "worker_pid": 40456,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 40456,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.017022800049744546
+    },
+    {
+      "worker_pid": 33784,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 33784,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.023154699942097068
+    },
+    {
+      "worker_pid": 40456,
+      "revision": "4adf27eee17bb35a46ed5c4d21b0973eff758d7737d4d746e10bc6362d4880eb",
+      "frame_worker_pid": 33784,
+      "frame_sha256": "96608ee0660f4e786dff359c4d20f53792d879163c431435485a862140e1a6dc",
+      "seconds": 0.023031200049445033
+    }
+  ],
+  "scope": "Readiness, same-origin API contract, replica catalog/frame consistency and read-only mutation rejection; not a throughput benchmark."
+}

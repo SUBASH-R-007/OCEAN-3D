@@ -1,0 +1,36 @@
+{
+  "scope": "12 concurrent loopback requests in one burst, then sequential retry of capacity rejections",
+  "initial_statuses": {
+    "200": 6,
+    "503": 6
+  },
+  "successful_retries": 6,
+  "health_seconds": [
+    0.06840510002803057,
+    0.008479499956592917,
+    0.00725400005467236,
+    0.016120800049975514,
+    0.006779799936339259,
+    0.006536700064316392,
+    0.009831600007601082,
+    0.006023699999786913
+  ],
+  "max_health_seconds": 0.06840510002803057,
+  "runtime": {
+    "scope": "this API process",
+    "frames": {
+      "payload_bytes": 4531296,
+      "limit_bytes": 67108864,
+      "entries": 12,
+      "hits": 0,
+      "misses": 24,
+      "evictions": 0
+    },
+    "work": {
+      "active": 0,
+      "rejected": 6,
+      "limit": 6
+    },
+    "policy": "Bounded in-flight requests; serialized scientific reads; 64 MiB cached payload budget. Health remains available under load."
+  }
+}

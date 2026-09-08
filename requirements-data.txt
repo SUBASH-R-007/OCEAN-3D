@@ -1,0 +1,2 @@
+# Optional, offline NOAA GeoTIFF preparation only.
+Pillow==12.3.0

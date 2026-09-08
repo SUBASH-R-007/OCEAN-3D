@@ -1,0 +1,10 @@
+{
+  "title": "NOAA ETOPO 2022 \u00b7 ice surface elevation",
+  "source_url": "https://gis.ngdc.noaa.gov/arcgis/rest/services/DEM_mosaics/DEM_all/ImageServer/exportImage?bbox=76%2C3%2C99%2C25&bboxSR=4326&size=230%2C220&imageSR=4326&format=tiff&pixelType=F32&interpolation=RSP_NearestNeighbor&compression=None&renderingRule=%7B%22rasterFunction%22%3A+%22none%22%7D&mosaicRule=%7B%22where%22%3A+%22Name%3D%27ETOPO_2022_v1_15s_surface_elev%27%22%7D&f=image",
+  "metadata_url": "https://www.ncei.noaa.gov/products/etopo-global-relief-model",
+  "sha256": "2aa7b86b48a24482f2d240d356b32a06aa4312b406806ad4917e754f6111585b",
+  "retrieved_at": "2026-09-07T10:34:56.775154+00:00",
+  "resolution": "0.1\u00b0 display extract from the 15 arc-second source; server nearest-neighbour sampling",
+  "license": "CC0-1.0; NOAA NCEI; DOI 10.25921/fd45-gt74",
+  "warning": "Geographic context only, not navigational bathymetry or the INCOIS model wet-cell mask."
+}
